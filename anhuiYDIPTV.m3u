@@ -72,7 +72,7 @@ http://112.31.236.101:6610/120000001002/XMThjjc/index.m3u8?
 #EXTINF：-1tvg-id="央视台球"tvg-name="央视台球"TVG-logo="https://gh-proxy.com/https://github.com/fanmingming/live/blob/main/tv/中央电视台球.PNG"group-title="央视频道"，CCTV中央电视台球
 http://112.31.236.106:6610/120000001002/XMTystq/index.m3u8?
 
-#EXTINF：-1tvg-id="高尔夫网球"tvg-name="高尔夫网球"TVG-logo="https://gh-proxy.com/https://github.com/fanmingming/live/blob/main/tv/高尔夫.PNG"组标题="央视频道"，CCTV高尔夫网球
+#EXTINF：-1tvg-id="高尔夫网球"tvg-name="高尔夫网球"TVG-logo="https://gh-proxy.com/https://github.com/fanmingming/live/blob/main/tv/高尔夫.PNG"组标题="中央频道"，CCTV高尔夫网络
 http://112.31.236.102:6610/120000001002/XMTgolf/index.m3u8?
 
 #EXTINF：-1tvg-id="风云足球"tvg-name="风云足球"TVG-logo="https://gh-proxy.com/https://github.com/fanmingming/live/blob/main/tv/风云足球.PNG"group-title="央视频道"，CCTV风云足球
